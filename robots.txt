@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://https://sweety.link/mebelmetaksa/sitemap.xml
+Sitemap: https://mebelmetaksa.itsinsta.site/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
